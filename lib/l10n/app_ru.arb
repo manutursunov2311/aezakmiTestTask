@@ -1,0 +1,80 @@
+{
+  "@@locale": "ru",
+
+  "errorTitle": "Ошибка",
+  "ok": "OK",
+
+  "loginTitle": "Вход",
+  "registerTitle": "Регистрация",
+  "loginButton": "Войти",
+  "registerButton": "Зарегистрироваться",
+
+  "labelEmail": "e-mail",
+  "phEmailLogin": "Введите электронную почту",
+  "phEmailRegister": "Ваша электронная почта",
+
+  "labelPassword": "Пароль",
+  "phPasswordLogin": "Введите пароль",
+  "phPasswordRegister": "8-16 символов",
+
+  "labelName": "Имя",
+  "phName": "Введите ваше имя",
+
+  "labelConfirmPassword": "Подтверждение пароля",
+  "phConfirmPassword": "8-16 символов",
+
+  "unknown": "Неизвестно",
+  "justNow": "только что",
+  "minutesAgo": "{minutes} мин назад",
+  "@minutesAgo": { "placeholders": { "minutes": {} } },
+  "hoursAgo": "{hours} ч назад",
+  "@hoursAgo": { "placeholders": { "hours": {} } },
+  "daysAgo": "{days} д назад",
+  "@daysAgo": { "placeholders": { "days": {} } },
+
+  "valEmailEmpty": "Пожалуйста, введите email.",
+  "valEmailInvalid": "Некорректный формат email.",
+  "valPasswordEmpty": "Пожалуйста, введите пароль.",
+  "valPasswordInvalid": "Пароль должен содержать минимум 8 символов.",
+  "valNameEmpty": "Пожалуйста, введите имя.",
+  "valConfirmPasswordEmpty": "Пожалуйста, подтвердите пароль.",
+  "valPasswordsMismatch": "Пароли не совпадают.",
+
+  "errorNotAuthorized": "Пользователь не авторизован",
+  "errorDelete": "Ошибка удаления изображения: {error}",
+  "@errorDelete": { "placeholders": { "error": {} } },
+
+  "galleryTitle": "Галерея",
+  "create": "Создать",
+
+  "galleryEmptyTitle": "Галерея пуста",
+  "galleryEmptySubtitle": "Создайте свой первый рисунок",
+
+  "deleteImageTitle": "Удалить изображение?",
+  "deleteImageBody": "Вы уверены, что хотите удалить \"{name}\"?",
+  "@deleteImageBody": { "placeholders": { "name": {} } },
+
+  "cancel": "Отмена",
+  "delete": "Удалить",
+
+  "logoutTitle": "Выход",
+  "logoutBody": "Вы уверены, что хотите выйти?",
+  "logout": "Выйти",
+
+  "errorLoadImages": "Ошибка загрузки изображений",
+  "errorDeleteImage": "Ошибка удаления изображения",
+  "errorLogout": "Ошибка выхода",
+  "successTitle": "Успешно",
+  "painterNewTitle": "Новое изображение",
+  "painterEditTitle": "Редактирование",
+  "colorPickerTitle": "Выбор цвета",
+
+  "painterShareSuccess": "Рисунок успешно отправлен",
+  "painterShareDismissed": "Меню экспорта закрыто",
+  "painterSaveCreated": "Новый рисунок создан!",
+  "painterSaveUpdated": "Изменения сохранены!",
+  "painterShareFailed": "Не удалось открыть меню экспорта",
+  "painterSaveFailed": "Не удалось сохранить рисунок",
+  "painterLoadEditFailed": "Не удалось загрузить изображение для редактирования"
+}
+

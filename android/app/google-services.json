@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29374283926",
+    "project_id": "aezakmitesttask-1f0ed",
+    "storage_bucket": "aezakmitesttask-1f0ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29374283926:android:f5b1fb29d654ebd33542b7",
+        "android_client_info": {
+          "package_name": "com.example.aezakmi_test_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfx7lSPhJUgATTLRySU-z8wZQ-wSl2VNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
